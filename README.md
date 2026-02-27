@@ -1,7 +1,12 @@
 # 🫀 Heart Disease Prediction – Kaggle Playground Series S6E2
 
 **Author:** Arasirwa William
+
+
 **Evaluation Metric:** ROC-AUC
+
+
+
 **Best Public LB Score:** `0.95372`
 
 ## 📌 Project Overview
